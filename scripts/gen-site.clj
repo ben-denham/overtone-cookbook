@@ -7,7 +7,7 @@
 (deps '[[marginalia "0.9.0"]])
 (require 'marginalia.parser 'marginalia.html 'marginalia.core)
 
-(def cookbook-files ["src/overtone_cookbook/introduction.clj"
+(def cookbook-files ["src/overtone_cookbook/core.clj"
                      "src/overtone_cookbook/installation.clj"
                      "src/overtone_cookbook/getting-started.clj"])
 (def site-dir "site")
